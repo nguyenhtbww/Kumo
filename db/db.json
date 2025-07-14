@@ -1,0 +1,163 @@
+{
+  "brands": [
+    {
+      "name": "Asusss55",
+      "position": 7,
+      "status": 1,
+      "id": "1"
+    },
+    {
+      "name": "Macbook",
+      "position": 1,
+      "status": 1,
+      "id": "3"
+    },
+    {
+      "name": "Ipad",
+      "position": 3,
+      "status": 1,
+      "id": "4"
+    },
+    {
+      "id": "361b",
+      "name": "nguyễn hiếu11",
+      "position": 555,
+      "status": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Asus Gaming ",
+      "brand_id": 3,
+      "type_id": 1,
+      "price": 128,
+      "sale": 11,
+      "image": "https://cdn.tgdd.vn/Products/Images/44/313333/lenovo-ideapad-slim-3-15iah8-i5-83er00evn-thumb-600x600.jpg",
+      "description": "Sở hữu thiết kế sang trọng, màn hình siêu mỏng kích thước 58 inch, độ phân giải 4K sắc nét, công nghệ HDR10 tối ưu độ sáng, độ tương phản cho trải nghiệm xem phim tuyệt vời. Tích hợp hệ điều hành Google TV với giao diện trực quan, dễ sử dụng cùng kho ứng dụng giải trí đa dạng, phong phú. ",
+      "create_date": "",
+      "hot": 1,
+      "status": 1,
+      "id": "1"
+    },
+    {
+      "name": "Aser Gaming ",
+      "brand_id": 1,
+      "type_id": 1,
+      "price": 12990000,
+      "sale": 11990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/44/231244/macbook-air-m1-2020-gray-600x600.jpg",
+      "description": "Sở hữu thiết kế sang trọng, màn hình siêu mỏng kích thước 58 inch, độ phân giải 4K sắc nét, công nghệ HDR10 tối ưu độ sáng, độ tương phản cho trải nghiệm xem phim tuyệt vời. Tích hợp hệ điều hành Google TV với giao diện trực quan, dễ sử dụng cùng kho ứng dụng giải trí đa dạng, phong phú. ",
+      "create_date": "",
+      "hot": 1,
+      "status": 1,
+      "id": "2"
+    },
+    {
+      "name": "Aser Gaming MS40099910",
+      "brand_id": 3,
+      "type_id": 3,
+      "price": 1000000,
+      "sale": 9000,
+      "image": "https://cdn.tgdd.vn/Products/Images/1942/279932/untitled-1.jpg",
+      "description": "Thuộc dòng tủ lạnh side by side được trang bị công nghệ Smart Inverter giúp tiết kiệm điện năng. Bên cạnh đó, công nghệ làm lạnh đa chiều mang hơi lạnh lan tỏa khắp các ngăn.",
+      "created_date": "2024-06-30",
+      "hot": 1,
+      "status": 1,
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "brand_id": 4,
+      "type_id": 3,
+      "name": "Aser Gaming MS400999",
+      "price": 12990000,
+      "sale": 11990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/44/231244/macbook-air-m1-2020-gray-600x600.jpg",
+      "description": "Sở hữu thiết kế sang trọng, màn hình siêu mỏng kích thước 58 inch, độ phân giải 4K sắc nét, công nghệ HDR10 tối ưu độ sáng, độ tương phản cho trải nghiệm xem phim tuyệt vời. Tích hợp hệ điều hành Google TV với giao diện trực quan, dễ sử dụng cùng kho ứng dụng giải trí đa dạng, phong phú. ",
+      "hot": 0,
+      "status": 1,
+      "created_date": "2023-08-12"
+    },
+    {
+      "name": "Product 02",
+      "brand_id": 3,
+      "type_id": 3,
+      "price": 1000000,
+      "sale": 90000,
+      "image": "https://cdn.tgdd.vn/Products/Images/1942/279932/untitled-1.jpg",
+      "description": "Thuộc dòng tủ lạnh side by side được trang bị công nghệ Smart Inverter giúp tiết kiệm điện năng. Bên cạnh đó, công nghệ làm lạnh đa chiều mang hơi lạnh lan tỏa khắp các ngăn.",
+      "created_date": "2024-06-14",
+      "hot": 1,
+      "status": 1,
+      "id": "5"
+    }
+  ],
+  "attributes": [
+    {
+      "id": "1",
+      "product_id": 1,
+      "ram": "8GB",
+      "cpu": "i5",
+      "disk": "512GB",
+      "monitor": "14 inchs",
+      "pin": "3 cell Lion, 50 Wh"
+    },
+    {
+      "id": "1",
+      "product_id": 2,
+      "ram": "16GB",
+      "cpu": "i7",
+      "disk": "512GB",
+      "monitor": "15 inchs",
+      "pin": "3 cell Lion, 100 Wh"
+    },
+    {
+      "id": "3",
+      "product_id": 3,
+      "ram": "16GB",
+      "cpu": "i7",
+      "disk": "512GB",
+      "monitor": "15 inchs",
+      "pin": "3 cell Lion, 100 Wh"
+    },
+    {
+      "id": "4",
+      "product_id": 4,
+      "ram": "16GB",
+      "cpu": "i7",
+      "disk": "512GB",
+      "monitor": "15 inchs",
+      "pin": "3 cell Lion, 100 Wh"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "name": "Bình thường"
+    },
+    {
+      "id": "2",
+      "name": "Giá rẻ"
+    },
+    {
+      "id": "3",
+      "name": "Giảm sốc"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Nguyễn Lê Phương",
+      "password": "123456",
+      "email": "phuongnl21@fpt.edu.vn"
+    },
+    {
+      "id": "2",
+      "name": "Nguyễn Huỳnh Phương",
+      "password": "123456",
+      "email": "phuongnh21@fpt.edu.vn"
+    }
+  ],
+  "orders": [],
+  "order_details": []
+}

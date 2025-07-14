@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outDir": "js", // dịch mã TS bỏ vào thư mục js
+    "target": "ES2022", // mô hình theo chuẩn ES2022
+    "removeComments": true,
+    "noEmit": false
+  }
+}
